@@ -6,7 +6,7 @@ This workspace is a small reinforcement-learning lab built around
 [Optuna](https://optuna.readthedocs.io/).
 
 <p align="center">
-  <img width="240" height="240" alt="sac_humanstandup" src="https://github.com/user-attachments/assets/02d08fd3-2eb2-42b7-8ce3-b435a933df28" />
+  <img width="240" height="240" alt="humanoid_standup_sac(1)" src="https://github.com/user-attachments/assets/2707bef3-2273-4022-9b6c-5ab6fd6149d5" />
 </p>
 
 It contains one training script per agent, hyperparameter search utilities, logging helpers,
