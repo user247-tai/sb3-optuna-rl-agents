@@ -225,6 +225,7 @@ def test_agent():
         obs = next_obs
         stop = terminate or truncate
 
+    env.close()
     print(f"Episode return: {eps_return}")
 
 
